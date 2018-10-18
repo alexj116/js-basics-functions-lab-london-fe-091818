@@ -1,5 +1,7 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(distance) {
+  const hq=42
+  return distance - hq
 
 }
 
@@ -9,7 +11,7 @@ function distanceFromHqInFeet(feetDistance) {
 }
 
 
-function distanceTravelledInFeet(blocks,feet) {
+function distanceTravelledInFeet(start,end) {
   
 }
 
