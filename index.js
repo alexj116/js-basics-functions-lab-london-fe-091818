@@ -4,7 +4,7 @@ function distanceFromHqInBlocks(block) {
   if (block < hq) {
     return hq - block;
   }
-  return distance - hq;
+  return block - hq;
 
 }
 
