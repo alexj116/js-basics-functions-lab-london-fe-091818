@@ -9,4 +9,6 @@ function distanceFromHqInFeet(feetDistance) {
   
 }
 
-function
+function distanceTravelledInFeet(feet) {
+  
+}
