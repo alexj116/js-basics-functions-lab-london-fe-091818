@@ -1,7 +1,10 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(distance) {
-  const hq=42
-  return distance - hq
+function distanceFromHqInBlocks(block) {
+  const hq=42;
+  if (block<hq) {
+    return hq-block
+  }
+  return distance - hq;
 
 }
 
