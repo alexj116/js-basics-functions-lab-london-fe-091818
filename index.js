@@ -10,7 +10,7 @@ function distanceFromHqInBlocks(block) {
 
 function distanceFromHqInFeet(block) {
   const feetConversion = 264;
-  return distanceTravelledInBlocks(block) * feetConversion
+  return distanceTravelledInBlocks(block) * feetConversion;
 }
 
 
