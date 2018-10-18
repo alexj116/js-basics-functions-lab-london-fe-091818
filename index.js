@@ -14,6 +14,6 @@ function distanceTravelledInFeet(blocks,feet) {
 }
 
 
-function calculatesFarePrice(feet,costPerFoot){
+function calculatesFarePrice(start,destination){
   
 }
