@@ -15,6 +15,9 @@ function distanceFromHqInFeet(block) {
 
 
 function distanceTravelledInFeet(start,end) {
+  if(start<end) {
+
+  }
   
 }
 
