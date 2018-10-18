@@ -2,7 +2,7 @@
 function distanceFromHqInBlocks(block) {
   const hq=42;
   if (block<hq) {
-    return hq-block
+    return hq-block;
   }
   return distance - hq;
 
