@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const hq=42
-function distanceFromHqInBlocks(hq,pickupLocation) {
+function distanceFromHqInBlocks(distance) {
   
 }
 function distanceFromHqInFeet(){
