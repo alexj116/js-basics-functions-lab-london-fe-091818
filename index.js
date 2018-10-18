@@ -1,3 +1,4 @@
 // Code your solution in this file!
 const hq=42
-Function distanceFromHqInBlocks(hq,block)
+const pickupLocation=43
+Function distanceFromHqInBlocks(hq,pickupLocation)
