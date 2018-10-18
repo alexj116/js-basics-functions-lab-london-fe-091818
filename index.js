@@ -14,3 +14,6 @@ function distanceFromHqInFeet(feetDistance) {
 function distanceTravelledInFeet(blocks,feet) {
   
 }
+
+
+function calculatesFarePrice()
